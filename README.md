@@ -37,7 +37,26 @@
 
 ## About The Project
 
+* Home Screen
+
 ![Screen Shot](Screenshots/Coffee_Home_Page.jpeg)
+
+* SignUp Screen
+
+![Screen Shot](Screenshots/Coffee_Signup.jpeg)
+
+* Login Screen
+
+![Screen Shot](Screenshots/Coffee_Login.jpg)
+
+* User Profile Screen
+
+![Screen Shot](Screenshots/Coffee_User_Profile.jpeg)
+
+* Cart Screen
+
+![Screen Shot](Screenshots/Coffee_Cart.jpeg)
+
 
 * User registration and login: Users can create an account or log in to an existing account to place orders.
 
@@ -99,17 +118,7 @@ git clone https://github.com/omd01/Online_Coffee_Shop.git
 - Register a new account or log in to an existing account.
 - Browse the coffee menu, add items to the cart, and place orders.(http://localhost/Coffee)
 
-## Contributing
 
-
-
-### Creating A Pull Request
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## Authors
 
